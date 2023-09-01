@@ -135,6 +135,27 @@ const testBoard: Boards = {
 };
 
 export default quickestPath;
+// const board: Boards = {
+//   ladders: [
+//     [3, 39],
+//     [14, 35],
+//     [31, 70],
+//     [44, 65],
+//     [47, 86],
+//     [63, 83],
+//     [71, 93],
+//   ],
+//   snakes: [
+//     [21, 4],
+//     [30, 8],
+//     [55, 38],
+//     [79, 42],
+//     [87, 54],
+//     [91, 48],
+//     [96, 66],
+//   ],
+// };
+
 // console.log(quickestPath(testBoard));
 
 // expect Result form quickestPath(testBoard)
